@@ -29,7 +29,7 @@
     },
     {
      "key": "Access-Control-Allow-Origin",
-     "value": "https://loanlens.vercel.app"
+     "value": "https://loanlens-pink.vercel.app"
     },
     {
      "key": "Content-Security-Policy",
