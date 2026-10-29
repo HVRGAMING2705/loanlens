@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://loanlens.vercel.app/sitemap.xml
